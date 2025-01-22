@@ -1,17 +1,17 @@
 # exploring-data
 
 
-mkdir git
-cd git
-git clone https://github.com/hooimin7/exploring-data.git
-cd exploring-data
-ls
-git pull
-git checkout Bioinformatic
-ls
-git status
-git add .
-git commit -am "add files"
-git push
-git status
-git diff
+mkdir git <br>
+cd git <br>
+git clone https://github.com/hooimin7/exploring-data.git <br>
+cd exploring-data <br>
+ls <br>
+git pull <br>
+git checkout Bioinformatic <br>
+ls <br>
+git status <br>
+git add . <br>
+git commit -am "add files" <br>
+git push <br>
+git status <br>
+git diff <br>
